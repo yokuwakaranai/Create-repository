@@ -8,14 +8,16 @@ body {
 	background-color: #dddddd;
 }
 
-.b{
+.b{ 
+	font-size : 50px;
 	font-feature-settings : "palt";
 	font-family: 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', sans-serif;
   text-align: center;
   color: #f5510b;
 }
 .a{
-  text-align: center;
+	font-size : 32px;
+        text-align: center;
 }
 
 .wf-notosansjapanese { font-family: "Noto Sans Japanese"; }
